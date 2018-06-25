@@ -1,0 +1,43 @@
+c:\users\noonaj\source\repos\ClientToServer\ServerService\bin\ServerService.dll.config
+c:\users\noonaj\source\repos\ClientToServer\ServerService\bin\ServerService.dll
+c:\users\noonaj\source\repos\ClientToServer\ServerService\bin\ServerService.pdb
+c:\users\noonaj\source\repos\ClientToServer\ServerService\bin\EntityFramework.dll
+c:\users\noonaj\source\repos\ClientToServer\ServerService\bin\EntityFramework.SqlServer.dll
+c:\users\noonaj\source\repos\ClientToServer\ServerService\bin\EntityFramework.xml
+c:\users\noonaj\source\repos\ClientToServer\ServerService\bin\EntityFramework.SqlServer.xml
+c:\users\noonaj\source\repos\ClientToServer\ServerService\obj\Debug\ServerService.csproj.CoreCompileInputs.cache
+c:\users\noonaj\source\repos\ClientToServer\ServerService\obj\Debug\ServerService.dll
+c:\users\noonaj\source\repos\ClientToServer\ServerService\obj\Debug\ServerService.pdb
+F:\ClientToServer - Copy\ServerService\bin\ServerService.dll.config
+F:\ClientToServer - Copy\ServerService\bin\ServerService.dll
+F:\ClientToServer - Copy\ServerService\bin\ServerService.pdb
+F:\ClientToServer - Copy\ServerService\bin\EntityFramework.dll
+F:\ClientToServer - Copy\ServerService\bin\EntityFramework.SqlServer.dll
+F:\ClientToServer - Copy\ServerService\bin\EntityFramework.xml
+F:\ClientToServer - Copy\ServerService\bin\EntityFramework.SqlServer.xml
+F:\ClientToServer - Copy\ServerService\obj\Debug\ServerService.csprojResolveAssemblyReference.cache
+F:\ClientToServer - Copy\ServerService\obj\Debug\ServerService.csproj.CoreCompileInputs.cache
+F:\ClientToServer - Copy\ServerService\obj\Debug\ServerService.dll
+F:\ClientToServer - Copy\ServerService\obj\Debug\ServerService.pdb
+C:\Users\noonaj\Desktop\Session8\ServerService\bin\ServerService.dll.config
+C:\Users\noonaj\Desktop\Session8\ServerService\bin\ServerService.dll
+C:\Users\noonaj\Desktop\Session8\ServerService\bin\ServerService.pdb
+C:\Users\noonaj\Desktop\Session8\ServerService\bin\EntityFramework.dll
+C:\Users\noonaj\Desktop\Session8\ServerService\bin\EntityFramework.SqlServer.dll
+C:\Users\noonaj\Desktop\Session8\ServerService\bin\EntityFramework.xml
+C:\Users\noonaj\Desktop\Session8\ServerService\bin\EntityFramework.SqlServer.xml
+C:\Users\noonaj\Desktop\Session8\ServerService\obj\Debug\ServerService.csprojResolveAssemblyReference.cache
+C:\Users\noonaj\Desktop\Session8\ServerService\obj\Debug\ServerService.csproj.CoreCompileInputs.cache
+C:\Users\noonaj\Desktop\Session8\ServerService\obj\Debug\ServerService.dll
+C:\Users\noonaj\Desktop\Session8\ServerService\obj\Debug\ServerService.pdb
+F:\C#EndPro\ServerService\bin\ServerService.dll.config
+F:\C#EndPro\ServerService\bin\ServerService.dll
+F:\C#EndPro\ServerService\bin\ServerService.pdb
+F:\C#EndPro\ServerService\bin\EntityFramework.dll
+F:\C#EndPro\ServerService\bin\EntityFramework.SqlServer.dll
+F:\C#EndPro\ServerService\bin\EntityFramework.xml
+F:\C#EndPro\ServerService\bin\EntityFramework.SqlServer.xml
+F:\C#EndPro\ServerService\obj\Debug\ServerService.csprojResolveAssemblyReference.cache
+F:\C#EndPro\ServerService\obj\Debug\ServerService.csproj.CoreCompileInputs.cache
+F:\C#EndPro\ServerService\obj\Debug\ServerService.dll
+F:\C#EndPro\ServerService\obj\Debug\ServerService.pdb

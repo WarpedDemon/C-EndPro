@@ -1,0 +1,78 @@
+﻿<Page
+    x:Class="ClientToServer.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ClientToServer"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    
+    xmlns:data ="using:ClientToServer.ServiceReference1"
+    
+    mc:Ignorable="d">
+
+    <StackPanel Width="Auto" Background="DarkGray">
+
+        <RelativePanel>
+
+            <StackPanel RelativePanel.AlignTopWithPanel="True" Width="auto" RelativePanel.AlignHorizontalCenterWithPanel="True"
+                        x:Name="Header">
+                <TextBlock Text="Northwind Order Details" RelativePanel.AlignTopWithPanel="True" x:Name="header" FontSize="50" />
+            </StackPanel>
+            <StackPanel x:Name="DataEntry" Orientation="Horizontal" RelativePanel.AlignHorizontalCenterWithPanel="True"
+                        Margin="0,10,0,0" RelativePanel.Below="Header">
+                <RelativePanel>
+                    <TextBlock Text="Select a Customer from the list or" x:Name="EnterDetailsHeader"
+                               RelativePanel.AlignHorizontalCenterWithPanel="True" FontWeight="Bold" FontSize="25"/>
+
+                    <TextBlock Text="Enter the Customer Details to view their orders" RelativePanel.Below="EnterDetailsHeader"
+                               RelativePanel.AlignHorizontalCenterWithPanel="True" Margin="0,15,0,0" x:Name="EnterCustIDHeader" FontSize="20"/>
+
+                    <StackPanel x:Name="EnterCustID" RelativePanel.Below="EnterCustIDHeader" Margin="0,10,0,0"
+                                RelativePanel.AlignHorizontalCenterWithPanel="True" Orientation="Horizontal">
+                        <TextBox Margin="0,0,10,0" MinWidth="120" PlaceholderText="Name" x:Name="custNametxtBox"/>
+                        <TextBox Margin="0,0,10,0" MinWidth="120" PlaceholderText="Surname" x:Name="CustSurnametxtBox"/>
+                        <Button Content="View Orders" x:Name="ViewOrdersButton" Click="ViewOrdersButton_Click"/>
+                        <Button Content="Sort" x:Name="sort" Click="sort_Click"/>
+                        <Button Content="Save" x:Name="save" Click="save_Click"/>
+                        <Button Content="Load" x:Name="load" Click="load_Click"/>
+                        <Button Name="logging" Content="Start Logging" Click="logging_Click"/>
+                    </StackPanel>
+                </RelativePanel>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Width="auto" RelativePanel.AlignHorizontalCenterWithPanel="True" RelativePanel.Below="DataEntry" Margin="0,10,0,0" x:Name="Listview">
+                <RelativePanel>
+                    <StackPanel Orientation="Horizontal" x:Name="lstHeader" Width="auto">
+                        <TextBlock Margin= "10" Width="170" FontSize= "20" FontWeight="Bold"  x:Name="CustIDHeader" Text="Customer ID"/>
+                        <TextBlock Margin= "10" Width="170" FontSize= "20" FontWeight="Bold" x:Name="CustNameHeader" RelativePanel.Below="CustIDHeader" Text="Contact Name"/>
+                        <TextBlock Margin= "10" Width="170" FontSize= "20" FontWeight="Bold" x:Name="ContactNameHeader" RelativePanel.RightOf="CustNameHeader" Text="Contact Title"/>
+                        <TextBlock Margin= "10" Width="170" FontSize= "20" FontWeight="Bold" x:Name="CompanyNameHeader" RelativePanel.RightOf="ContactNameHeader" Text="Company Name"/>
+                        <TextBlock Margin= "10" Width="170" FontSize= "20" FontWeight="Bold" x:Name="AddressHeader" RelativePanel.RightOf="CompanyNameHeader" Text="Address"/>
+                        <TextBlock Margin= "10" Width="170" FontSize= "20" FontWeight="Bold" x:Name="CountryHeader" RelativePanel.RightOf="AddressHeader" Text="Country"/>
+                        <TextBlock Margin= "10" Width="170" FontSize= "20" FontWeight="Bold" x:Name="PhoneNoHeader" RelativePanel.RightOf="CountryHeader" Text="Phone"/>
+                    </StackPanel>
+
+                    <ListView ItemsSource="{x:Bind Items}" Margin="-10,0,0,0" MaxHeight="750" Width="auto" x:Name="lstView" RelativePanel.Below="lstHeader" Loaded="ListView_Loaded" >
+                        <ListView.ItemTemplate>
+                            <DataTemplate x:DataType="data:Customer">
+                                <StackPanel Orientation="Horizontal">
+                                    <RelativePanel>
+                                        <StackPanel Orientation="Horizontal" x:Name="Listview" Width="auto">
+                                            <TextBlock Margin= "10" Width="170" TextWrapping="Wrap" x:Name="CustID" Text="{x:Bind CustomerID}"/>
+                                            <TextBlock Margin= "10" Width="170" TextWrapping="Wrap" x:Name="CustName" RelativePanel.Below="CustID" Text="{x:Bind ContactName}"/>
+                                            <TextBlock Margin= "10" Width="170" TextWrapping="Wrap" x:Name="ContactName" RelativePanel.RightOf="CustName" Text="{x:Bind ContactTitle}"/>
+                                            <TextBlock Margin= "10" Width="170" TextWrapping="Wrap" x:Name="CompanyName" RelativePanel.RightOf="ContactName" Text="{x:Bind CompanyName}"/>
+                                            <TextBlock Margin= "10" Width="170" TextWrapping="Wrap" x:Name="Address" RelativePanel.RightOf="CompanyName" Text="{x:Bind Address}"/>
+                                            <TextBlock Margin= "10" Width="170" TextWrapping="Wrap" x:Name="Country" RelativePanel.RightOf="Address" Text="{x:Bind Country}"/>
+                                            <TextBlock Margin= "10" Width="170" TextWrapping="Wrap" x:Name="PhoneNo" RelativePanel.RightOf="Country" Text="{x:Bind Phone}"/>
+                                        </StackPanel>
+                                    </RelativePanel>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </RelativePanel>
+            </StackPanel>
+        </RelativePanel>
+    </StackPanel>
+</Page>

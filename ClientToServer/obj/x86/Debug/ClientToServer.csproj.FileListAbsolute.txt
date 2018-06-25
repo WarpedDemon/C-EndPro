@@ -1,0 +1,1064 @@
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\App.g.i.cs
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\App.g.cs
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\MainPage.g.i.cs
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\MainPage.g.cs
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\XamlTypeInfo.g.cs
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\App.xaml
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\MainPage.xaml
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\App.xbf
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\MainPage.xbf
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\XamlSaveStateFile.xml
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\App.xbf
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\MainPage.xbf
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\ClientToServer.xr.xml
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\ClientToServer.exe
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\ClientToServer.pdb
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\resources.pri
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\AppxManifest.xml
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\Core\AppxManifest.xml
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\Core\ClientToServer.exe
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\ClientToServer.build.appxrecipe
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\Microsoft.CSharp.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Core.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Net.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Numerics.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.ServiceModel.Web.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.ServiceModel.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Windows.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Xml.Linq.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Xml.Serialization.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Xml.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\Microsoft.VisualBasic.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Collections.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Diagnostics.Tools.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Diagnostics.Tracing.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Globalization.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Globalization.Calendars.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.IO.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Reflection.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Reflection.Extensions.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Reflection.Primitives.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Resources.ResourceManager.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Runtime.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Runtime.Handles.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Runtime.InteropServices.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Text.Encoding.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Threading.Tasks.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Threading.Timer.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Diagnostics.Debug.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.IO.FileSystem.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Net.Primitives.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Net.Sockets.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Runtime.Extensions.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\clrjit.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\clrcompression.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Private.Uri.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.AppContext.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Buffers.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Collections.Concurrent.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Collections.Immutable.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Collections.NonGeneric.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Collections.Specialized.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.ComponentModel.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.ComponentModel.Annotations.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Data.Common.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Diagnostics.Contracts.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Dynamic.Runtime.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Globalization.Extensions.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.IO.Compression.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.IO.IsolatedStorage.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Linq.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Linq.Expressions.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Linq.Parallel.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Linq.Queryable.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Net.Http.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Net.Http.Rtc.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Net.NameResolution.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Net.NetworkInformation.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Net.Requests.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Net.WebSockets.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Net.WebSockets.Client.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Numerics.Vectors.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.ObjectModel.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Private.DataContractSerialization.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Private.ServiceModel.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Reflection.Context.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Reflection.Emit.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Reflection.Metadata.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Runtime.Numerics.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Security.Claims.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Security.Principal.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.ServiceModel.Duplex.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.ServiceModel.Http.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.ServiceModel.Primitives.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.ServiceModel.Security.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Text.RegularExpressions.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Threading.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Threading.Overlapped.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Xml.ReaderWriter.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Xml.XDocument.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Xml.XmlDocument.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\bin\x86\Debug\System.Xml.XmlSerializer.dll
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\ClientToServer.csproj.CoreCompileInputs.cache
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\ClientToServer.exe
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\ClientToServer.pdb
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\ResourceHandlingTask.state
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Collections.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.IO.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Linq.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Threading.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\priconfig.xml
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\priconfig.xml.intermediate
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\layout.resfiles
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\layout.resfiles.intermediate
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\resources.resfiles
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\resources.resfiles.intermediate
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\pri.resfiles
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\pri.resfiles.intermediate
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\qualifiers.txt
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\qualifiers.txt.intermediate
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\noonaj\source\repos\ClientToServer\ClientToServer\obj\x86\Debug\ProjectArchitectures.txt
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\App.xbf
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\MainPage.xbf
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\ClientToServer.xr.xml
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\ClientToServer.exe
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\ClientToServer.pdb
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\resources.pri
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\AppxManifest.xml
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\Core\AppxManifest.xml
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\Core\ClientToServer.exe
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\ClientToServer.build.appxrecipe
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\Microsoft.CSharp.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Core.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Net.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Numerics.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.ServiceModel.Web.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.ServiceModel.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Windows.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Xml.Linq.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Xml.Serialization.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Xml.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\Microsoft.VisualBasic.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Collections.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Diagnostics.Tools.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Diagnostics.Tracing.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Globalization.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Globalization.Calendars.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.IO.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Reflection.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Reflection.Extensions.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Reflection.Primitives.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Resources.ResourceManager.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Runtime.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Runtime.Handles.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Runtime.InteropServices.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Text.Encoding.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Threading.Tasks.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Threading.Timer.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Diagnostics.Debug.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.IO.FileSystem.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Net.Primitives.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Net.Sockets.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Runtime.Extensions.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\clrjit.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\clrcompression.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Private.Uri.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.AppContext.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Buffers.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Collections.Concurrent.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Collections.Immutable.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Collections.NonGeneric.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Collections.Specialized.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.ComponentModel.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.ComponentModel.Annotations.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Data.Common.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Diagnostics.Contracts.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Dynamic.Runtime.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Globalization.Extensions.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.IO.Compression.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.IO.IsolatedStorage.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Linq.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Linq.Expressions.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Linq.Parallel.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Linq.Queryable.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Net.Http.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Net.Http.Rtc.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Net.NameResolution.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Net.NetworkInformation.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Net.Requests.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Net.WebSockets.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Net.WebSockets.Client.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Numerics.Vectors.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.ObjectModel.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Private.DataContractSerialization.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Private.ServiceModel.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Reflection.Context.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Reflection.Emit.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Reflection.Metadata.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Runtime.Numerics.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Security.Claims.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Security.Principal.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.ServiceModel.Duplex.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.ServiceModel.Http.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.ServiceModel.Primitives.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.ServiceModel.Security.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Text.RegularExpressions.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Threading.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Threading.Overlapped.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Xml.ReaderWriter.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Xml.XDocument.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Xml.XmlDocument.dll
+F:\ClientToServer - Copy\ClientToServer\bin\x86\Debug\System.Xml.XmlSerializer.dll
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\ClientToServer.csprojResolveAssemblyReference.cache
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\App.g.i.cs
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\App.g.cs
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\MainPage.g.i.cs
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\MainPage.g.cs
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\App.xaml
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\MainPage.xaml
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\App.xbf
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\MainPage.xbf
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\XamlSaveStateFile.xml
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\ClientToServer.csproj.CoreCompileInputs.cache
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\ClientToServer.exe
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\ClientToServer.pdb
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\ResourceHandlingTask.state
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Collections.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.IO.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Linq.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Threading.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\priconfig.xml
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\priconfig.xml.intermediate
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\layout.resfiles
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\layout.resfiles.intermediate
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\resources.resfiles
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\resources.resfiles.intermediate
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\pri.resfiles
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\pri.resfiles.intermediate
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\qualifiers.txt
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\qualifiers.txt.intermediate
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\ClientToServer - Copy\ClientToServer\obj\x86\Debug\ProjectArchitectures.txt
+F:\Session8\ClientToServer\bin\x86\Debug\App.xbf
+F:\Session8\ClientToServer\bin\x86\Debug\MainPage.xbf
+F:\Session8\ClientToServer\bin\x86\Debug\ClientToServer.xr.xml
+F:\Session8\ClientToServer\bin\x86\Debug\ClientToServer.exe
+F:\Session8\ClientToServer\bin\x86\Debug\ClientToServer.pdb
+F:\Session8\ClientToServer\bin\x86\Debug\resources.pri
+F:\Session8\ClientToServer\bin\x86\Debug\AppxManifest.xml
+F:\Session8\ClientToServer\bin\x86\Debug\Core\AppxManifest.xml
+F:\Session8\ClientToServer\bin\x86\Debug\Core\ClientToServer.exe
+F:\Session8\ClientToServer\bin\x86\Debug\ClientToServer.build.appxrecipe
+F:\Session8\ClientToServer\bin\x86\Debug\Microsoft.CSharp.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Core.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Net.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Numerics.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.ServiceModel.Web.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.ServiceModel.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Windows.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Xml.Linq.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Xml.Serialization.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Xml.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.dll
+F:\Session8\ClientToServer\bin\x86\Debug\Microsoft.VisualBasic.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Collections.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Diagnostics.Tools.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Diagnostics.Tracing.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Globalization.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Globalization.Calendars.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.IO.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Reflection.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Reflection.Extensions.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Reflection.Primitives.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Resources.ResourceManager.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Runtime.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Runtime.Handles.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Runtime.InteropServices.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Text.Encoding.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Threading.Tasks.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Threading.Timer.dll
+F:\Session8\ClientToServer\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Diagnostics.Debug.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.IO.FileSystem.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Net.Primitives.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Net.Sockets.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Runtime.Extensions.dll
+F:\Session8\ClientToServer\bin\x86\Debug\clrjit.dll
+F:\Session8\ClientToServer\bin\x86\Debug\clrcompression.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Private.Uri.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.AppContext.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Buffers.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Collections.Concurrent.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Collections.Immutable.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Collections.NonGeneric.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Collections.Specialized.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.ComponentModel.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.ComponentModel.Annotations.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Data.Common.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Diagnostics.Contracts.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Dynamic.Runtime.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Globalization.Extensions.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.IO.Compression.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.IO.IsolatedStorage.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Linq.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Linq.Expressions.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Linq.Parallel.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Linq.Queryable.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Net.Http.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Net.Http.Rtc.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Net.NameResolution.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Net.NetworkInformation.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Net.Requests.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Net.WebSockets.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Net.WebSockets.Client.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Numerics.Vectors.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.ObjectModel.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Private.DataContractSerialization.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Private.ServiceModel.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Reflection.Context.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Reflection.Emit.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Reflection.Metadata.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Runtime.Numerics.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Security.Claims.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Security.Principal.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.ServiceModel.Duplex.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.ServiceModel.Http.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.ServiceModel.Primitives.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.ServiceModel.Security.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Text.RegularExpressions.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Threading.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Threading.Overlapped.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Xml.ReaderWriter.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Xml.XDocument.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Xml.XmlDocument.dll
+F:\Session8\ClientToServer\bin\x86\Debug\System.Xml.XmlSerializer.dll
+F:\Session8\ClientToServer\obj\x86\Debug\ClientToServer.csprojResolveAssemblyReference.cache
+F:\Session8\ClientToServer\obj\x86\Debug\App.g.i.cs
+F:\Session8\ClientToServer\obj\x86\Debug\App.g.cs
+F:\Session8\ClientToServer\obj\x86\Debug\MainPage.g.i.cs
+F:\Session8\ClientToServer\obj\x86\Debug\MainPage.g.cs
+F:\Session8\ClientToServer\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\Session8\ClientToServer\obj\x86\Debug\App.xaml
+F:\Session8\ClientToServer\obj\x86\Debug\MainPage.xaml
+F:\Session8\ClientToServer\obj\x86\Debug\App.xbf
+F:\Session8\ClientToServer\obj\x86\Debug\MainPage.xbf
+F:\Session8\ClientToServer\obj\x86\Debug\XamlSaveStateFile.xml
+F:\Session8\ClientToServer\obj\x86\Debug\ClientToServer.csproj.CoreCompileInputs.cache
+F:\Session8\ClientToServer\obj\x86\Debug\ClientToServer.exe
+F:\Session8\ClientToServer\obj\x86\Debug\ClientToServer.pdb
+F:\Session8\ClientToServer\obj\x86\Debug\ResourceHandlingTask.state
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Collections.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.IO.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Linq.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Threading.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+F:\Session8\ClientToServer\obj\x86\Debug\priconfig.xml
+F:\Session8\ClientToServer\obj\x86\Debug\priconfig.xml.intermediate
+F:\Session8\ClientToServer\obj\x86\Debug\layout.resfiles
+F:\Session8\ClientToServer\obj\x86\Debug\layout.resfiles.intermediate
+F:\Session8\ClientToServer\obj\x86\Debug\resources.resfiles
+F:\Session8\ClientToServer\obj\x86\Debug\resources.resfiles.intermediate
+F:\Session8\ClientToServer\obj\x86\Debug\pri.resfiles
+F:\Session8\ClientToServer\obj\x86\Debug\pri.resfiles.intermediate
+F:\Session8\ClientToServer\obj\x86\Debug\qualifiers.txt
+F:\Session8\ClientToServer\obj\x86\Debug\qualifiers.txt.intermediate
+F:\Session8\ClientToServer\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Session8\ClientToServer\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\App.xbf
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\MainPage.xbf
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\ClientToServer.xr.xml
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\ClientToServer.exe
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\ClientToServer.pdb
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\resources.pri
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\AppxManifest.xml
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\Core\ClientToServer.exe
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\ClientToServer.build.appxrecipe
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Core.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Net.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Numerics.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Windows.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Xml.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Collections.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Globalization.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.IO.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Reflection.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Runtime.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\clrjit.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\clrcompression.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.AppContext.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Buffers.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Data.Common.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Linq.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Net.Http.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Net.NameResolution.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Net.WebSockets.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Threading.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\ClientToServer.csprojResolveAssemblyReference.cache
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\App.g.i.cs
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\App.g.cs
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\MainPage.g.cs
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\App.xaml
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\MainPage.xaml
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\App.xbf
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\MainPage.xbf
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\ClientToServer.csproj.CoreCompileInputs.cache
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\ClientToServer.exe
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\ClientToServer.pdb
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\priconfig.xml
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\layout.resfiles
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\resources.resfiles
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\pri.resfiles
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\qualifiers.txt
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\noonaj\Desktop\Session8\ClientToServer\obj\x86\Debug\ProjectArchitectures.txt
+F:\C#EndPro\ClientToServer\obj\x86\Debug\ClientToServer.csprojResolveAssemblyReference.cache
+F:\C#EndPro\ClientToServer\obj\x86\Debug\App.g.i.cs
+F:\C#EndPro\ClientToServer\obj\x86\Debug\App.g.cs
+F:\C#EndPro\ClientToServer\obj\x86\Debug\MainPage.g.i.cs
+F:\C#EndPro\ClientToServer\obj\x86\Debug\MainPage.g.cs
+F:\C#EndPro\ClientToServer\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\C#EndPro\ClientToServer\obj\x86\Debug\App.xaml
+F:\C#EndPro\ClientToServer\obj\x86\Debug\MainPage.xaml
+F:\C#EndPro\ClientToServer\obj\x86\Debug\App.xbf
+F:\C#EndPro\ClientToServer\obj\x86\Debug\MainPage.xbf
+F:\C#EndPro\ClientToServer\obj\x86\Debug\XamlSaveStateFile.xml
+F:\C#EndPro\ClientToServer\obj\x86\Debug\ClientToServer.exe
+F:\C#EndPro\ClientToServer\obj\x86\Debug\ClientToServer.pdb
+F:\C#EndPro\ClientToServer\bin\x86\Debug\App.xbf
+F:\C#EndPro\ClientToServer\bin\x86\Debug\MainPage.xbf
+F:\C#EndPro\ClientToServer\bin\x86\Debug\ClientToServer.xr.xml
+F:\C#EndPro\ClientToServer\bin\x86\Debug\ClientToServer.exe
+F:\C#EndPro\ClientToServer\bin\x86\Debug\ClientToServer.pdb
+F:\C#EndPro\ClientToServer\bin\x86\Debug\resources.pri
+F:\C#EndPro\ClientToServer\bin\x86\Debug\AppxManifest.xml
+F:\C#EndPro\ClientToServer\bin\x86\Debug\Core\AppxManifest.xml
+F:\C#EndPro\ClientToServer\bin\x86\Debug\Core\ClientToServer.exe
+F:\C#EndPro\ClientToServer\bin\x86\Debug\ClientToServer.build.appxrecipe
+F:\C#EndPro\ClientToServer\bin\x86\Debug\Microsoft.CSharp.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Core.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Net.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Numerics.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.ServiceModel.Web.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.ServiceModel.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Windows.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Xml.Linq.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Xml.Serialization.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Xml.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\Microsoft.VisualBasic.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Collections.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Diagnostics.Tools.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Diagnostics.Tracing.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Globalization.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Globalization.Calendars.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.IO.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Reflection.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Reflection.Extensions.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Reflection.Primitives.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Resources.ResourceManager.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Runtime.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Runtime.Handles.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Runtime.InteropServices.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Text.Encoding.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Threading.Tasks.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Threading.Timer.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Diagnostics.Debug.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.IO.FileSystem.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Net.Primitives.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Net.Sockets.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Runtime.Extensions.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\clrjit.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\clrcompression.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Private.Uri.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.AppContext.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Buffers.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Collections.Concurrent.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Collections.Immutable.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Collections.NonGeneric.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Collections.Specialized.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.ComponentModel.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.ComponentModel.Annotations.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Data.Common.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Diagnostics.Contracts.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Dynamic.Runtime.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Globalization.Extensions.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.IO.Compression.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.IO.IsolatedStorage.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Linq.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Linq.Expressions.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Linq.Parallel.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Linq.Queryable.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Net.Http.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Net.Http.Rtc.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Net.NameResolution.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Net.NetworkInformation.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Net.Requests.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Net.WebSockets.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Net.WebSockets.Client.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Numerics.Vectors.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.ObjectModel.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Private.DataContractSerialization.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Private.ServiceModel.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Reflection.Context.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Reflection.Emit.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Reflection.Metadata.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Runtime.Numerics.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Security.Claims.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Security.Principal.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.ServiceModel.Duplex.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.ServiceModel.Http.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.ServiceModel.Primitives.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.ServiceModel.Security.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Text.RegularExpressions.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Threading.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Threading.Overlapped.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Xml.ReaderWriter.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Xml.XDocument.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Xml.XmlDocument.dll
+F:\C#EndPro\ClientToServer\bin\x86\Debug\System.Xml.XmlSerializer.dll
+F:\C#EndPro\ClientToServer\obj\x86\Debug\ClientToServer.csproj.CoreCompileInputs.cache
+F:\C#EndPro\ClientToServer\obj\x86\Debug\ResourceHandlingTask.state
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Collections.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.IO.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Linq.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Threading.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+F:\C#EndPro\ClientToServer\obj\x86\Debug\priconfig.xml
+F:\C#EndPro\ClientToServer\obj\x86\Debug\priconfig.xml.intermediate
+F:\C#EndPro\ClientToServer\obj\x86\Debug\layout.resfiles
+F:\C#EndPro\ClientToServer\obj\x86\Debug\layout.resfiles.intermediate
+F:\C#EndPro\ClientToServer\obj\x86\Debug\resources.resfiles
+F:\C#EndPro\ClientToServer\obj\x86\Debug\resources.resfiles.intermediate
+F:\C#EndPro\ClientToServer\obj\x86\Debug\pri.resfiles
+F:\C#EndPro\ClientToServer\obj\x86\Debug\pri.resfiles.intermediate
+F:\C#EndPro\ClientToServer\obj\x86\Debug\qualifiers.txt
+F:\C#EndPro\ClientToServer\obj\x86\Debug\qualifiers.txt.intermediate
+F:\C#EndPro\ClientToServer\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\C#EndPro\ClientToServer\obj\x86\Debug\ProjectArchitectures.txt
